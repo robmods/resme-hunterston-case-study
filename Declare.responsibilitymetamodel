@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<responsibilityMetaModel:Scenario xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:responsibilityMetaModel="http://www.example.org/responsibilityMetaModel" name="Declare Emergency">
+  <responsibilities name="Declare Off-Site Emergency" requiredActor="//@relations.0"/>
+  <responsibilities name="Stand Down Emergency"/>
+  <actors name="Emergency Controller" requiredBy="//@relations.0"/>
+  <actors name="Strategic Co-ordinator"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.0" actor="//@actors.0"/>
+</responsibilityMetaModel:Scenario>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<responsibilityMetaModel:Scenario xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:responsibilityMetaModel="http://www.example.org/responsibilityMetaModel">
+  <resources name="Declaration of Off-Site Emergancy" critical="true" criticalityCount="8" requiredBy="//@relations.9 //@relations.11 //@relations.6 //@relations.7 //@relations.40 //@relations.42 //@relations.43 //@relations.58" producedBy="//@relations.39"/>
+  <resources name="Off-Site Emergency Plan" producedBy="//@relations.22"/>
+  <resources name="Predistrubted Potassium Iodate" criticalityCount="1" requiredBy="//@relations.29"/>
+  <resources name="Calendars + Information Leaflets" criticalityCount="1" requiredBy="//@relations.33"/>
+  <resources name="On-hand iodate tablets" criticalityCount="2" requiredBy="//@relations.34"/>
+  <responsibilities name="Declare Off-Site Emergency" critical="true" criticalityCount="8" producedResource="//@relations.39" requiredActor="//@relations.1"/>
+  <responsibilities name="Stand Down Emergency" requiredResource="//@relations.40" requiredActor="//@relations.3 //@relations.0" heldBy="//@relations.66"/>
+  <responsibilities name="Declare Site Emergency" requiredActor="//@relations.2"/>
+  <responsibilities name="Perform Radiological Surveys" requiredActor="//@relations.62"/>
+  <responsibilities name="Establish MBC" requiredResource="//@relations.9" requiredActor="//@relations.8"/>
+  <responsibilities name="Establish ECC" requiredResource="//@relations.6" requiredActor="//@relations.41"/>
+  <responsibilities name="Establish CESC" requiredResource="//@relations.7" requiredActor="//@relations.4"/>
+  <responsibilities name="Establish SEER" requiredResource="//@relations.42" requiredActor="//@relations.10"/>
+  <responsibilities name="Establish NAECC" requiredResource="//@relations.11" requiredActor="//@relations.5"/>
+  <responsibilities name="Activate Rest Centres" requiredResource="//@relations.43" requiredActor="//@relations.52" subResponsibility="//@relations.44 //@relations.45 //@relations.46 //@relations.47 //@relations.48 //@relations.49 //@relations.50 //@relations.51"/>
+  <responsibilities name="Establish Incident Control Post" requiredActor="//@relations.15"/>
+  <responsibilities name="Establish Forward Control Point" requiredActor="//@relations.12"/>
+  <responsibilities name="Establish Traffic Control Points" requiredActor="//@relations.13"/>
+  <responsibilities name="Establish Incident Control Point" requiredActor="//@relations.14"/>
+  <responsibilities name="Dispatch portable human radiation measuring team" requiredActor="//@relations.20"/>
+  <responsibilities name="Protect food chain" requiredActor="//@relations.19"/>
+  <responsibilities name="Determine safety of nearby sea vessels" requiredActor="//@relations.18"/>
+  <responsibilities name="Manage BT Networks activity" requiredActor="//@relations.17"/>
+  <responsibilities name="Establish Chilton Emergency Centre" requiredActor="//@relations.16"/>
+  <responsibilities name="Provide alternative safe drinking water" requiredActor="//@relations.21"/>
+  <responsibilities name="Prepare Off-Site Emergency Plan" producedResource="//@relations.22" requiredActor="//@relations.53"/>
+  <responsibilities name="Extended radiation monitoring" requiredActor="//@relations.30 //@relations.28 //@relations.55" subResponsibility="//@relations.25 //@relations.24 //@relations.26"/>
+  <responsibilities name="Monitoring external to North Ayrshire" criticalityCount="1" requiredActor="//@relations.27" superResponsibility="//@relations.26"/>
+  <responsibilities name="Identify/Manage additional Rest Centres" requiredActor="//@relations.54"/>
+  <responsibilities name="Impose additional access/traffic control" requiredActor="//@relations.59"/>
+  <responsibilities name="Co-ordination of ERM" criticalityCount="1" requiredActor="//@relations.77" superResponsibility="//@relations.25"/>
+  <responsibilities name="External personal monitoring" criticalityCount="1" requiredActor="//@relations.23" superResponsibility="//@relations.24"/>
+  <responsibilities name="Activate countermeasures for residents" requiredResource="//@relations.29 //@relations.58" requiredActor="//@relations.61" subResponsibility="//@relations.65"/>
+  <responsibilities name="Issue media statement" requiredActor="//@relations.60"/>
+  <responsibilities name="Provide Emergency Information" requiredActor="//@relations.63" subResponsibility="//@relations.32"/>
+  <responsibilities name="Provide Prior Information" requiredResource="//@relations.33" requiredActor="//@relations.64"/>
+  <responsibilities name="Inform local residents" criticalityCount="2" requiredActor="//@relations.31" superResponsibility="//@relations.32 //@relations.65"/>
+  <responsibilities name="Dispose of contaminated clothing" criticalityCount="1" superResponsibility="//@relations.44"/>
+  <responsibilities name="Establish Casualty Bureau" criticalityCount="1" requiredActor="//@relations.57" superResponsibility="//@relations.51"/>
+  <responsibilities name="Establish Holding Centre" criticalityCount="1" requiredActor="//@relations.35" superResponsibility="//@relations.49"/>
+  <responsibilities name="Disperse Potassium Iodate" criticalityCount="1" requiredResource="//@relations.34" requiredActor="//@relations.38" superResponsibility="//@relations.47"/>
+  <responsibilities name="Recommend Evacuation" criticalityCount="1" requiredActor="//@relations.56" superResponsibility="//@relations.50"/>
+  <responsibilities name="Provide showers / clean clothes" criticalityCount="1" superResponsibility="//@relations.45"/>
+  <responsibilities name="Surface Monitoring" criticalityCount="1" requiredActor="//@relations.36" superResponsibility="//@relations.48"/>
+  <responsibilities name="Operate Decontamination Centre" criticalityCount="1" requiredActor="//@relations.37" superResponsibility="//@relations.46"/>
+  <responsibilities name="Chair HAG" requiredActor="//@relations.67" producedActor="//@relations.68"/>
+  <responsibilities name="Chair SCG" criticalityCount="2" requiredActor="//@relations.76" producedActor="//@relations.69"/>
+  <responsibilities name="Establish Recovery Working Group" requiredActor="//@relations.72 //@relations.75" producedActor="//@relations.71"/>
+  <responsibilities name="Establish Media Working Group" requiredActor="//@relations.73 //@relations.74" producedActor="//@relations.70"/>
+  <actors name="Strategic Co-ordinator" criticalityCount="4" requiredBy="//@relations.0 //@relations.74 //@relations.75 //@relations.76" heldResponsibility="//@relations.66"/>
+  <actors name="Site Emergency Controller" critical="true" criticalityCount="10" requiredBy="//@relations.2 //@relations.1 //@relations.3 //@relations.41"/>
+  <actors name="North Ayrshire Council" criticalityCount="6" requiredBy="//@relations.8 //@relations.5 //@relations.52 //@relations.53 //@relations.54 //@relations.55"/>
+  <actors name="Site Operator" criticalityCount="4" requiredBy="//@relations.4 //@relations.62 //@relations.63 //@relations.64"/>
+  <actors name="Scottish Executive Enterprise &amp; Lifelong Learning Department" criticalityCount="1" requiredBy="//@relations.10"/>
+  <actors name="Strathclyde Police" criticalityCount="10" requiredBy="//@relations.14 //@relations.15 //@relations.13 //@relations.12 //@relations.56 //@relations.57 //@relations.59 //@relations.60 //@relations.61"/>
+  <actors name="BT" criticalityCount="1" requiredBy="//@relations.17"/>
+  <actors name="Coastguard" criticalityCount="1" requiredBy="//@relations.18"/>
+  <actors name="Health Protection Agency" criticalityCount="4" requiredBy="//@relations.16 //@relations.20 //@relations.77"/>
+  <actors name="Scottish Water" criticalityCount="1" requiredBy="//@relations.21"/>
+  <actors name="Food Standards Agency" criticalityCount="1" requiredBy="//@relations.19"/>
+  <actors name="MoD" criticalityCount="1" requiredBy="//@relations.30"/>
+  <actors name="NHS (Scotland-wide?)" criticalityCount="2" requiredBy="//@relations.23"/>
+  <actors name="Other nuclear site staff" criticalityCount="1" requiredBy="//@relations.28"/>
+  <actors name="Other Local authorities" criticalityCount="2" requiredBy="//@relations.27"/>
+  <actors name="Frontworks System" criticalityCount="3" requiredBy="//@relations.31"/>
+  <actors name="NHS Ayrshire &amp; Arran" criticalityCount="4" requiredBy="//@relations.36 //@relations.38 //@relations.35"/>
+  <actors name="Scottish Ambulance Service" criticalityCount="2" requiredBy="//@relations.37"/>
+  <actors name="Public Health Consultatant" criticalityCount="1" requiredBy="//@relations.67"/>
+  <actors name="Health Advisory Group" producedBy="//@relations.68"/>
+  <actors name="Strategic Co-ordination Group" criticalityCount="2" requiredBy="//@relations.72 //@relations.73" producedBy="//@relations.69"/>
+  <actors name="Media Working Group" producedBy="//@relations.70"/>
+  <actors name="Recovery Working Group" producedBy="//@relations.71"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.1" actor="//@actors.0"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.0" actor="//@actors.1"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.2" actor="//@actors.1"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.1" actor="//@actors.1"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.6" actor="//@actors.3"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.8" actor="//@actors.2"/>
+  <relations xsi:type="responsibilityMetaModel:resourceRequiredRelationship" responsibility="//@responsibilities.5" resource="//@resources.0"/>
+  <relations xsi:type="responsibilityMetaModel:resourceRequiredRelationship" responsibility="//@responsibilities.6" resource="//@resources.0"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.4" actor="//@actors.2"/>
+  <relations xsi:type="responsibilityMetaModel:resourceRequiredRelationship" responsibility="//@responsibilities.4" resource="//@resources.0"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.7" actor="//@actors.4"/>
+  <relations xsi:type="responsibilityMetaModel:resourceRequiredRelationship" responsibility="//@responsibilities.8" resource="//@resources.0"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.11" actor="//@actors.5"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.12" actor="//@actors.5"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.13" actor="//@actors.5"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.10" actor="//@actors.5"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.18" actor="//@actors.8"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.17" actor="//@actors.6"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.16" actor="//@actors.7"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.15" actor="//@actors.10"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.14" actor="//@actors.8"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.19" actor="//@actors.9"/>
+  <relations xsi:type="responsibilityMetaModel:resourceProducedRelationship" responsibility="//@responsibilities.20" resource="//@resources.1"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.26" actor="//@actors.12"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.26" superResponsibility="//@responsibilities.21"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.25" superResponsibility="//@responsibilities.21"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.22" superResponsibility="//@responsibilities.21"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.22" actor="//@actors.14"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.21" actor="//@actors.13"/>
+  <relations xsi:type="responsibilityMetaModel:resourceRequiredRelationship" responsibility="//@responsibilities.27" resource="//@resources.2"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.21" actor="//@actors.11"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.31" actor="//@actors.15"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.31" superResponsibility="//@responsibilities.29"/>
+  <relations xsi:type="responsibilityMetaModel:resourceRequiredRelationship" responsibility="//@responsibilities.30" resource="//@resources.3"/>
+  <relations xsi:type="responsibilityMetaModel:resourceRequiredRelationship" responsibility="//@responsibilities.35" resource="//@resources.4"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.34" actor="//@actors.16"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.38" actor="//@actors.16"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.39" actor="//@actors.17"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.35" actor="//@actors.16"/>
+  <relations xsi:type="responsibilityMetaModel:resourceProducedRelationship" responsibility="//@responsibilities.0" resource="//@resources.0"/>
+  <relations xsi:type="responsibilityMetaModel:resourceRequiredRelationship" responsibility="//@responsibilities.1" resource="//@resources.0"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.5" actor="//@actors.1"/>
+  <relations xsi:type="responsibilityMetaModel:resourceRequiredRelationship" responsibility="//@responsibilities.7" resource="//@resources.0"/>
+  <relations xsi:type="responsibilityMetaModel:resourceRequiredRelationship" responsibility="//@responsibilities.9" resource="//@resources.0"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.32" superResponsibility="//@responsibilities.9"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.37" superResponsibility="//@responsibilities.9"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.39" superResponsibility="//@responsibilities.9"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.35" superResponsibility="//@responsibilities.9"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.38" superResponsibility="//@responsibilities.9"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.34" superResponsibility="//@responsibilities.9"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.36" superResponsibility="//@responsibilities.9"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.33" superResponsibility="//@responsibilities.9"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.9" actor="//@actors.2"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.20" actor="//@actors.2"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.23" actor="//@actors.2"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.21" actor="//@actors.2"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.36" actor="//@actors.5"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.33" actor="//@actors.5"/>
+  <relations xsi:type="responsibilityMetaModel:resourceRequiredRelationship" responsibility="//@responsibilities.27" resource="//@resources.0"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.24" actor="//@actors.5"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.28" actor="//@actors.5"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.27" actor="//@actors.5"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.3" actor="//@actors.3"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.29" actor="//@actors.3"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.30" actor="//@actors.3"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.31" superResponsibility="//@responsibilities.27"/>
+  <relations xsi:type="responsibilityMetaModel:actorHoldsRelationship" responsibility="//@responsibilities.1" actor="//@actors.0"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.40" actor="//@actors.18"/>
+  <relations xsi:type="responsibilityMetaModel:actorProducedRelationship" actor="//@actors.19" responsibility="//@responsibilities.40"/>
+  <relations xsi:type="responsibilityMetaModel:actorProducedRelationship" actor="//@actors.20" responsibility="//@responsibilities.41"/>
+  <relations xsi:type="responsibilityMetaModel:actorProducedRelationship" actor="//@actors.21" responsibility="//@responsibilities.43"/>
+  <relations xsi:type="responsibilityMetaModel:actorProducedRelationship" actor="//@actors.22" responsibility="//@responsibilities.42"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.42" actor="//@actors.20"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.43" actor="//@actors.20"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.43" actor="//@actors.0"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.42" actor="//@actors.0"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.41" actor="//@actors.0"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.25" actor="//@actors.8"/>
+</responsibilityMetaModel:Scenario>

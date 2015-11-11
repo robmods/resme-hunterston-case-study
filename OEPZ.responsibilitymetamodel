@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<responsibilityMetaModel:Scenario xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:responsibilityMetaModel="http://www.example.org/responsibilityMetaModel">
+  <resources name="Radiation Alert" requiredBy="//@relations.5"/>
+  <resources name="Predistrubted Potassium Iodate" requiredBy="//@relations.1"/>
+  <responsibilities name="Issue media statement" requiredActor="//@relations.2"/>
+  <responsibilities name="Activate automated alert system" requiredActor="//@relations.4" superResponsibility="//@relations.3"/>
+  <responsibilities name="Activate countermeasures for residents" requiredResource="//@relations.5 //@relations.1" requiredActor="//@relations.0" subResponsibility="//@relations.3"/>
+  <responsibilities name="Identify/Manage additional Rest Centres" requiredActor="//@relations.6"/>
+  <responsibilities name="Impose additional access/traffic control" requiredActor="//@relations.7"/>
+  <responsibilities name="Extended radiation monitoring" requiredActor="//@relations.8 //@relations.9 //@relations.12" subResponsibility="//@relations.11 //@relations.13 //@relations.15"/>
+  <responsibilities name="Co-ordination of ERM" requiredActor="//@relations.10" superResponsibility="//@relations.11"/>
+  <responsibilities name="External personal monitoring" requiredActor="//@relations.14" superResponsibility="//@relations.13"/>
+  <responsibilities name="Monitoring external to North Ayrshire" requiredActor="//@relations.16" superResponsibility="//@relations.15"/>
+  <actors name="Strathclyde Police" requiredBy="//@relations.2 //@relations.0 //@relations.7"/>
+  <actors name="Site Operator" requiredBy="//@relations.4"/>
+  <actors name="North Ayrshire Council" requiredBy="//@relations.6 //@relations.12"/>
+  <actors name="MoD" requiredBy="//@relations.8"/>
+  <actors name="Other nuclear site staff" requiredBy="//@relations.9"/>
+  <actors name="HPA" requiredBy="//@relations.10"/>
+  <actors name="NHS" requiredBy="//@relations.14"/>
+  <actors name="Local authorities" requiredBy="//@relations.16"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.2" actor="//@actors.0"/>
+  <relations xsi:type="responsibilityMetaModel:resourceRequiredRelationship" responsibility="//@responsibilities.2" resource="//@resources.1"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.0" actor="//@actors.0"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.1" superResponsibility="//@responsibilities.2"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.1" actor="//@actors.1"/>
+  <relations xsi:type="responsibilityMetaModel:resourceRequiredRelationship" responsibility="//@responsibilities.2" resource="//@resources.0"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.3" actor="//@actors.2"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.4" actor="//@actors.0"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.5" actor="//@actors.3"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.5" actor="//@actors.4"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.6" actor="//@actors.5"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.6" superResponsibility="//@responsibilities.5"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.5" actor="//@actors.2"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.7" superResponsibility="//@responsibilities.5"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.7" actor="//@actors.6"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.8" superResponsibility="//@responsibilities.5"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.8" actor="//@actors.7"/>
+</responsibilityMetaModel:Scenario>

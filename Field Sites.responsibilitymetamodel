@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<responsibilityMetaModel:Scenario xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:responsibilityMetaModel="http://www.example.org/responsibilityMetaModel">
+  <responsibilities name="Establish Forward Control Point" requiredActor="//@relations.4"/>
+  <responsibilities name="Establish Incident Control Point" requiredActor="//@relations.0"/>
+  <responsibilities name="Establish Incident Control Post" requiredActor="//@relations.1"/>
+  <responsibilities name="Activate Rest Centres" requiredActor="//@relations.2"/>
+  <responsibilities name="Establish Traffic Control Points" requiredActor="//@relations.3"/>
+  <actors name="Strathclyde Police" requiredBy="//@relations.0 //@relations.1 //@relations.3 //@relations.4"/>
+  <actors name="North Ayrshire Council" requiredBy="//@relations.2"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.1" actor="//@actors.0"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.2" actor="//@actors.0"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.3" actor="//@actors.1"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.4" actor="//@actors.0"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.0" actor="//@actors.0"/>
+</responsibilityMetaModel:Scenario>

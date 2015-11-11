@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<responsibilityMetaModel:Scenario xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:responsibilityMetaModel="http://www.example.org/responsibilityMetaModel">
+  <resources name="Radiation Alert" requiredBy="//@relations.0"/>
+  <resources name="Predistrubted Potassium Iodate" requiredBy="//@relations.1"/>
+  <responsibilities name="Activate countermeasures for residents" requiredResource="//@relations.0 //@relations.1" requiredActor="//@relations.5" subResponsibility="//@relations.2"/>
+  <responsibilities name="Activate automated alert system" requiredActor="//@relations.4" superResponsibility="//@relations.2"/>
+  <responsibilities name="Issue media statement" requiredActor="//@relations.3"/>
+  <responsibilities name="Perform Radiological Surveys" requiredActor="//@relations.6"/>
+  <actors name="Strathclyde Police" requiredBy="//@relations.3 //@relations.5"/>
+  <actors name="Site Operator" requiredBy="//@relations.4"/>
+  <actors name="Site Operator" requiredBy="//@relations.6"/>
+  <relations xsi:type="responsibilityMetaModel:resourceRequiredRelationship" responsibility="//@responsibilities.0" resource="//@resources.0"/>
+  <relations xsi:type="responsibilityMetaModel:resourceRequiredRelationship" responsibility="//@responsibilities.0" resource="//@resources.1"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.1" superResponsibility="//@responsibilities.0"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.2" actor="//@actors.0"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.1" actor="//@actors.1"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.0" actor="//@actors.0"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.3" actor="//@actors.2"/>
+</responsibilityMetaModel:Scenario>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<responsibilityMetaModel:Scenario xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:responsibilityMetaModel="http://www.example.org/responsibilityMetaModel" name="NAECC Management">
+  <responsibilities name="Chair SCG" requiredActor="//@relations.0" producedActor="//@relations.4"/>
+  <responsibilities name="Chair HAG" requiredActor="//@relations.1" producedActor="//@relations.6"/>
+  <responsibilities name="Establish Recovery Working Group" requiredActor="//@relations.2 //@relations.3" producedActor="//@relations.5"/>
+  <responsibilities name="Establish Media Working Group" requiredActor="//@relations.7 //@relations.8" producedActor="//@relations.9"/>
+  <actors name="Strategic Co-ordinator" requiredBy="//@relations.0 //@relations.2 //@relations.8"/>
+  <actors name="Public Health Consultatant" requiredBy="//@relations.1"/>
+  <actors name="Strategic Co-ordination Group" requiredBy="//@relations.3 //@relations.7" producedBy="//@relations.4"/>
+  <actors name="Recovery Working Group" producedBy="//@relations.5"/>
+  <actors name="Health Advisory Group" producedBy="//@relations.6"/>
+  <actors name="Media Working Group" producedBy="//@relations.9"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.0" actor="//@actors.0"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.1" actor="//@actors.1"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.2" actor="//@actors.0"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.2" actor="//@actors.2"/>
+  <relations xsi:type="responsibilityMetaModel:actorProducedRelationship" actor="//@actors.2" responsibility="//@responsibilities.0"/>
+  <relations xsi:type="responsibilityMetaModel:actorProducedRelationship" actor="//@actors.3" responsibility="//@responsibilities.2"/>
+  <relations xsi:type="responsibilityMetaModel:actorProducedRelationship" actor="//@actors.4" responsibility="//@responsibilities.1"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.3" actor="//@actors.2"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.3" actor="//@actors.0"/>
+  <relations xsi:type="responsibilityMetaModel:actorProducedRelationship" actor="//@actors.5" responsibility="//@responsibilities.3"/>
+</responsibilityMetaModel:Scenario>

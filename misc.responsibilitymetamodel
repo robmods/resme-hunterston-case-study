@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<responsibilityMetaModel:Scenario xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:responsibilityMetaModel="http://www.example.org/responsibilityMetaModel" name="Miscellanous">
+  <responsibilities name="Manage BT Networks activity" requiredActor="//@relations.0"/>
+  <responsibilities name="Protect food chain" requiredActor="//@relations.1"/>
+  <responsibilities name="Determine safety of nearby sea vessels" requiredActor="//@relations.2"/>
+  <responsibilities name="Establish Chilton Emergency Centre" requiredActor="//@relations.3"/>
+  <responsibilities name="Dispatch portable human radiation measuring team" requiredActor="//@relations.4"/>
+  <responsibilities name="Provide alternative safe drinking water" requiredActor="//@relations.5"/>
+  <actors name="BT" requiredBy="//@relations.0"/>
+  <actors name="Food Standards Agency" requiredBy="//@relations.1"/>
+  <actors name="Coastguard" requiredBy="//@relations.2"/>
+  <actors name="Health Protection Agency" requiredBy="//@relations.3 //@relations.4"/>
+  <actors name="Scottish Water" requiredBy="//@relations.5"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.0" actor="//@actors.0"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.1" actor="//@actors.1"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.2" actor="//@actors.2"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.3" actor="//@actors.3"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.4" actor="//@actors.3"/>
+  <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.5" actor="//@actors.4"/>
+</responsibilityMetaModel:Scenario>
