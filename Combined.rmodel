@@ -2,7 +2,7 @@
 <responsibilityMetaModel:Scenario xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:responsibilityMetaModel="http://www.example.org/responsibilityMetaModel">
   <resources name="Declaration of Off-Site Emergancy" critical="true" criticalityCount="8" requiredBy="//@relations.9 //@relations.11 //@relations.6 //@relations.7 //@relations.40 //@relations.42 //@relations.43 //@relations.58" producedBy="//@relations.39"/>
   <resources name="Off-Site Emergency Plan" producedBy="//@relations.22"/>
-  <resources name="Predistrubted Potassium Iodate" criticalityCount="1" requiredBy="//@relations.29"/>
+  <resources name="Predistributed Potassium Iodate" criticalityCount="1" requiredBy="//@relations.29"/>
   <resources name="Calendars + Information Leaflets" criticalityCount="1" requiredBy="//@relations.33"/>
   <resources name="On-hand iodate tablets" criticalityCount="2" requiredBy="//@relations.34"/>
   <responsibilities name="Declare Off-Site Emergency" critical="true" criticalityCount="8" producedResource="//@relations.39" requiredActor="//@relations.1"/>
