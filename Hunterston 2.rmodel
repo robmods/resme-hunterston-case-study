@@ -56,7 +56,7 @@
   <actors name="Coastguard" criticalityCount="1" requiredBy="//@relations.17"/>
   <actors name="Health Protection Agency" criticalityCount="4" requiredBy="//@relations.16 //@relations.18 //@relations.74"/>
   <actors name="Scottish Water" criticalityCount="1" requiredBy="//@relations.19"/>
-  <actors name="NHS (Scotland-wide?)" criticalityCount="2" requiredBy="//@relations.21"/>
+  <actors name="External NHS Boards" criticalityCount="2" requiredBy="//@relations.21"/>
   <actors name="Other nuclear site staff" criticalityCount="1" requiredBy="//@relations.26"/>
   <actors name="Other Local authorities" criticalityCount="2" requiredBy="//@relations.25"/>
   <actors name="Frontworks System" criticalityCount="3" requiredBy="//@relations.28"/>
