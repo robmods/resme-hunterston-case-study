@@ -8484,24 +8484,13 @@
             <styles xmi:type="notation:ShapeStyle" xmi:id="_EHhvE6QIEeWwTIUtgzvn0Q" fontName="Cantarell" fontHeight="8"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EHhvFKQIEeWwTIUtgzvn0Q" x="80" y="445" width="144" height="76"/>
           </children>
-          <children xmi:type="notation:Node" xmi:id="_EHiWIqQIEeWwTIUtgzvn0Q" type="2001" element="_EGnJQ6QIEeWwTIUtgzvn0Q">
-            <children xmi:type="notation:Node" xmi:id="_EHi9MKQIEeWwTIUtgzvn0Q" type="5002">
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_EHi9MaQIEeWwTIUtgzvn0Q" y="5"/>
-            </children>
-            <children xmi:type="notation:Node" xmi:id="_EIfYY6QIEeWwTIUtgzvn0Q" type="3004" element="_EGnJRKQIEeWwTIUtgzvn0Q">
-              <styles xmi:type="notation:ShapeStyle" xmi:id="_EIfYZKQIEeWwTIUtgzvn0Q" fontName="Cantarell"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EIfYZaQIEeWwTIUtgzvn0Q"/>
-            </children>
-            <styles xmi:type="notation:ShapeStyle" xmi:id="_EHiWI6QIEeWwTIUtgzvn0Q" fontName="Cantarell" fontHeight="8"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EHiWJKQIEeWwTIUtgzvn0Q" x="636" y="827" width="110" height="60"/>
-          </children>
           <children xmi:type="notation:Node" xmi:id="_EHjkQKQIEeWwTIUtgzvn0Q" type="2001" element="_EGnJSKQIEeWwTIUtgzvn0Q">
             <children xmi:type="notation:Node" xmi:id="_EHjkQ6QIEeWwTIUtgzvn0Q" type="5002">
               <layoutConstraint xmi:type="notation:Location" xmi:id="_EHjkRKQIEeWwTIUtgzvn0Q" y="5"/>
             </children>
-            <children xmi:type="notation:Node" xmi:id="_EIf_cKQIEeWwTIUtgzvn0Q" type="3004" element="_EGnJSaQIEeWwTIUtgzvn0Q">
-              <styles xmi:type="notation:ShapeStyle" xmi:id="_EIf_caQIEeWwTIUtgzvn0Q" fontName="Cantarell"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EIf_cqQIEeWwTIUtgzvn0Q"/>
+            <children xmi:type="notation:Node" xmi:id="_lm6c8LSQEeWfY6Tmvn2vmg" type="3004" element="_llybkLSQEeWfY6Tmvn2vmg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_lm6c8bSQEeWfY6Tmvn2vmg" fontName="Cantarell"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lm6c8rSQEeWfY6Tmvn2vmg"/>
             </children>
             <styles xmi:type="notation:ShapeStyle" xmi:id="_EHjkQaQIEeWwTIUtgzvn0Q" fontName="Cantarell" fontHeight="8"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EHjkQqQIEeWwTIUtgzvn0Q" x="490" y="895" width="120" height="66"/>
@@ -8510,9 +8499,9 @@
             <children xmi:type="notation:Node" xmi:id="_EHkLU6QIEeWwTIUtgzvn0Q" type="5002">
               <layoutConstraint xmi:type="notation:Location" xmi:id="_EHkLVKQIEeWwTIUtgzvn0Q" y="5"/>
             </children>
-            <children xmi:type="notation:Node" xmi:id="_EIf_c6QIEeWwTIUtgzvn0Q" type="3004" element="_EGnJTqQIEeWwTIUtgzvn0Q">
-              <styles xmi:type="notation:ShapeStyle" xmi:id="_EIf_dKQIEeWwTIUtgzvn0Q" fontName="Cantarell"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EIf_daQIEeWwTIUtgzvn0Q"/>
+            <children xmi:type="notation:Node" xmi:id="_k3w38LSQEeWfY6Tmvn2vmg" type="3004" element="_k2o2kLSQEeWfY6Tmvn2vmg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_k3w38bSQEeWfY6Tmvn2vmg" fontName="Cantarell"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_k3w38rSQEeWfY6Tmvn2vmg"/>
             </children>
             <styles xmi:type="notation:ShapeStyle" xmi:id="_EHkLUaQIEeWwTIUtgzvn0Q" fontName="Cantarell" fontHeight="8"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EHkLUqQIEeWwTIUtgzvn0Q" x="615" y="718" width="120" height="64"/>
@@ -8625,7 +8614,7 @@
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EIkQ4qQIEeWwTIUtgzvn0Q"/>
             </children>
             <styles xmi:type="notation:ShapeStyle" xmi:id="_EHvKc6QIEeWwTIUtgzvn0Q" fontName="Cantarell" fontHeight="8"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EHvKdKQIEeWwTIUtgzvn0Q" x="446" y="976" width="120" height="64"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EHvKdKQIEeWwTIUtgzvn0Q" x="446" y="976" width="145" height="80"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_EHvxgqQIEeWwTIUtgzvn0Q" type="2001" element="_EGnJjqQIEeWwTIUtgzvn0Q">
             <children xmi:type="notation:Node" xmi:id="_EHwYkKQIEeWwTIUtgzvn0Q" type="5002">
@@ -8928,9 +8917,9 @@
             <children xmi:type="notation:Node" xmi:id="_EIKoQKQIEeWwTIUtgzvn0Q" type="5002">
               <layoutConstraint xmi:type="notation:Location" xmi:id="_EIKoQaQIEeWwTIUtgzvn0Q" y="-21"/>
             </children>
-            <children xmi:type="notation:Node" xmi:id="_EIuo8KQIEeWwTIUtgzvn0Q" type="3005" element="_EGnwLqQIEeWwTIUtgzvn0Q">
-              <styles xmi:type="notation:ShapeStyle" xmi:id="_EIuo8aQIEeWwTIUtgzvn0Q" fontName="Cantarell"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EIuo8qQIEeWwTIUtgzvn0Q"/>
+            <children xmi:type="notation:Node" xmi:id="_JOCVILSLEeWfY6Tmvn2vmg" type="3005" element="_JM2pYLSLEeWfY6Tmvn2vmg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_JOCVIbSLEeWfY6Tmvn2vmg" fontName="Cantarell"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JOCVIrSLEeWfY6Tmvn2vmg"/>
             </children>
             <styles xmi:type="notation:ShapeStyle" xmi:id="_EIKBMaQIEeWwTIUtgzvn0Q" fontName="Cantarell" fontHeight="8"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EIKBMqQIEeWwTIUtgzvn0Q" x="990" y="931" width="61" height="109"/>
@@ -9463,22 +9452,6 @@
             <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EJSCkqQIEeWwTIUtgzvn0Q" id="(0.29801324503311255,0.7527472527472527)"/>
             <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EJSCk6QIEeWwTIUtgzvn0Q" id="(0.0,0.4954128440366973)"/>
           </edges>
-          <edges xmi:type="notation:Edge" xmi:id="_EJSClKQIEeWwTIUtgzvn0Q" type="4001" element="_EGnw66QIEeWwTIUtgzvn0Q" source="_EHiWIqQIEeWwTIUtgzvn0Q" target="_EIL2YqQIEeWwTIUtgzvn0Q">
-            <children xmi:type="notation:Node" xmi:id="_EJSpoKQIEeWwTIUtgzvn0Q" type="6001">
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EJSpoaQIEeWwTIUtgzvn0Q" y="-10"/>
-            </children>
-            <children xmi:type="notation:Node" xmi:id="_EJSpoqQIEeWwTIUtgzvn0Q" type="6002">
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EJSpo6QIEeWwTIUtgzvn0Q" y="10"/>
-            </children>
-            <children xmi:type="notation:Node" xmi:id="_EJSppKQIEeWwTIUtgzvn0Q" type="6003">
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EJSppaQIEeWwTIUtgzvn0Q" y="10"/>
-            </children>
-            <styles xmi:type="notation:ConnectorStyle" xmi:id="_EJSClaQIEeWwTIUtgzvn0Q"/>
-            <styles xmi:type="notation:FontStyle" xmi:id="_EJSClqQIEeWwTIUtgzvn0Q" fontName="Cantarell" fontHeight="8"/>
-            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_EJSCl6QIEeWwTIUtgzvn0Q" points="[-38, -35, 155, 158]$[-139, -137, 54, 56]"/>
-            <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EJSppqQIEeWwTIUtgzvn0Q" id="(0.2727272727272727,0.7527472527472527)"/>
-            <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EJSpp6QIEeWwTIUtgzvn0Q" id="(0.0,0.4954128440366973)"/>
-          </edges>
           <edges xmi:type="notation:Edge" xmi:id="_EJTQsKQIEeWwTIUtgzvn0Q" type="4001" element="_EGnw8KQIEeWwTIUtgzvn0Q" source="_EHq5AKQIEeWwTIUtgzvn0Q" target="_EIO5sKQIEeWwTIUtgzvn0Q">
             <children xmi:type="notation:Node" xmi:id="_EJTQtKQIEeWwTIUtgzvn0Q" type="6001">
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EJTQtaQIEeWwTIUtgzvn0Q" y="-10"/>
@@ -9796,7 +9769,7 @@
             <styles xmi:type="notation:ConnectorStyle" xmi:id="_EJmLo6QIEeWwTIUtgzvn0Q"/>
             <styles xmi:type="notation:FontStyle" xmi:id="_EJmLpKQIEeWwTIUtgzvn0Q" fontName="Cantarell" fontHeight="8"/>
             <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_EJmLpaQIEeWwTIUtgzvn0Q" points="[-2, -38, 2, 307]$[-4, -289, 0, 56]"/>
-            <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EJmysqQIEeWwTIUtgzvn0Q" id="(0.24861878453038674,0.7680412371134021)"/>
+            <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EJmysqQIEeWwTIUtgzvn0Q" id="(0.20528156520857618,0.6144329896907217)"/>
             <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EJmys6QIEeWwTIUtgzvn0Q" id="(0.0,0.4954128440366973)"/>
           </edges>
           <edges xmi:type="notation:Edge" xmi:id="_EJmytKQIEeWwTIUtgzvn0Q" type="4001" element="_EGnxY6QIEeWwTIUtgzvn0Q" source="_EHyNwqQIEeWwTIUtgzvn0Q" target="_EIL2YqQIEeWwTIUtgzvn0Q">
@@ -10453,51 +10426,37 @@
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
-      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJQ6QIEeWwTIUtgzvn0Q" name="Establish Incident Control Post" outgoingEdges="_EGnw66QIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
+      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJSKQIEeWwTIUtgzvn0Q" name="Establish Forward Control Point" outgoingEdges="_EGnw3KQIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
         <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.10"/>
         <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.10"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_EGnJRKQIEeWwTIUtgzvn0Q" showIcon="false" labelPosition="node">
-          <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnJRaQIEeWwTIUtgzvn0Q"/>
+        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_llybkLSQEeWfY6Tmvn2vmg" showIcon="false" labelPosition="node">
+          <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_llybkbSQEeWfY6Tmvn2vmg"/>
           <description xmi:type="style:BundledImageDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']/@style"/>
-          <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnJRqQIEeWwTIUtgzvn0Q"/>
-          <color xmi:type="viewpoint:RGBValues" xmi:id="_EGnJR6QIEeWwTIUtgzvn0Q" red="255" green="255" blue="255"/>
+          <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_llybkrSQEeWfY6Tmvn2vmg"/>
+          <color xmi:type="viewpoint:RGBValues" xmi:id="_llybk7SQEeWfY6Tmvn2vmg" red="255" green="255" blue="255"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
-      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJSKQIEeWwTIUtgzvn0Q" name="Establish Forward Control Point" outgoingEdges="_EGnw3KQIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
+      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJTaQIEeWwTIUtgzvn0Q" name="Establish Traffic Control Points" outgoingEdges="_EGnw4aQIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
         <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.11"/>
         <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.11"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_EGnJSaQIEeWwTIUtgzvn0Q" showIcon="false" labelPosition="node">
-          <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnJSqQIEeWwTIUtgzvn0Q"/>
+        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_k2o2kLSQEeWfY6Tmvn2vmg" showIcon="false" labelPosition="node">
+          <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_k2o2kbSQEeWfY6Tmvn2vmg"/>
           <description xmi:type="style:BundledImageDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']/@style"/>
-          <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnJS6QIEeWwTIUtgzvn0Q"/>
-          <color xmi:type="viewpoint:RGBValues" xmi:id="_EGnJTKQIEeWwTIUtgzvn0Q" red="255" green="255" blue="255"/>
-        </ownedStyle>
-        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
-      </ownedDiagramElements>
-      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJTaQIEeWwTIUtgzvn0Q" name="Establish Traffic Control Points" outgoingEdges="_EGnw4aQIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.12"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.12"/>
-        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
-        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
-        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_EGnJTqQIEeWwTIUtgzvn0Q" showIcon="false" labelPosition="node">
-          <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnJT6QIEeWwTIUtgzvn0Q"/>
-          <description xmi:type="style:BundledImageDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']/@style"/>
-          <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnJUKQIEeWwTIUtgzvn0Q"/>
-          <color xmi:type="viewpoint:RGBValues" xmi:id="_EGnJUaQIEeWwTIUtgzvn0Q" red="255" green="255" blue="255"/>
+          <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_k2o2krSQEeWfY6Tmvn2vmg"/>
+          <color xmi:type="viewpoint:RGBValues" xmi:id="_k2o2k7SQEeWfY6Tmvn2vmg" red="255" green="255" blue="255"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJUqQIEeWwTIUtgzvn0Q" name="Establish Incident Control Point" outgoingEdges="_EGnw5qQIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.13"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.13"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.12"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.12"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10510,8 +10469,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJV6QIEeWwTIUtgzvn0Q" name="Dispatch portable human radiation measuring team" outgoingEdges="_EGnxBKQIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.14"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.14"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.13"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.13"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10524,8 +10483,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJYaQIEeWwTIUtgzvn0Q" name="Determine safety of nearby sea vessels" outgoingEdges="_EGnw-qQIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.15"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.15"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.14"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.14"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10538,8 +10497,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJa6QIEeWwTIUtgzvn0Q" name="Establish Chilton Emergency Centre" outgoingEdges="_EGnw8KQIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.16"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.16"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.15"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.15"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10552,8 +10511,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJcKQIEeWwTIUtgzvn0Q" name="Provide alternative safe drinking water" outgoingEdges="_EGnxCaQIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.17"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.17"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.16"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.16"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10566,8 +10525,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJdaQIEeWwTIUtgzvn0Q" name="Prepare Off-Site Emergency Plan" outgoingEdges="_EGnxRaQIEeWwTIUtgzvn0Q _EGnx4KQIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.18"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.18"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.17"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.17"/>
         <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_EGnJdqQIEeWwTIUtgzvn0Q" showIcon="false" labelPosition="node">
           <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnJd6QIEeWwTIUtgzvn0Q"/>
           <description xmi:type="style:BundledImageDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']/@style"/>
@@ -10577,8 +10536,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJeqQIEeWwTIUtgzvn0Q" name="Extended radiation monitoring" outgoingEdges="_EGnxGKQIEeWwTIUtgzvn0Q _EGnxT6QIEeWwTIUtgzvn0Q _EGnxn6QIEeWwTIUtgzvn0Q _EGnxpKQIEeWwTIUtgzvn0Q _EGnxqaQIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.19"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.19"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.18"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.18"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10591,8 +10550,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJf6QIEeWwTIUtgzvn0Q" name="Monitoring external to North Ayrshire" outgoingEdges="_EGnxE6QIEeWwTIUtgzvn0Q" incomingEdges="_EGnxqaQIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.20"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.20"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.19"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.19"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10605,8 +10564,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJhKQIEeWwTIUtgzvn0Q" name="Identify/Manage additional Rest Centres" outgoingEdges="_EGnxSqQIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.21"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.21"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.20"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.20"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10619,8 +10578,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJiaQIEeWwTIUtgzvn0Q" name="Impose additional access/traffic control" outgoingEdges="_EGnxXqQIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.22"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.22"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.21"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.21"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10633,8 +10592,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJjqQIEeWwTIUtgzvn0Q" name="Co-ordination of ERM" outgoingEdges="_EGnxmqQIEeWwTIUtgzvn0Q" incomingEdges="_EGnxpKQIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.23"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.23"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.22"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.22"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10647,8 +10606,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJk6QIEeWwTIUtgzvn0Q" name="External personal monitoring" outgoingEdges="_EGnxDqQIEeWwTIUtgzvn0Q" incomingEdges="_EGnxn6QIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.24"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.24"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.23"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.23"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10661,8 +10620,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJmKQIEeWwTIUtgzvn0Q" name="Activate countermeasures for residents" outgoingEdges="_EGnwkaQIEeWwTIUtgzvn0Q _EGnwr6QIEeWwTIUtgzvn0Q _EGnxaKQIEeWwTIUtgzvn0Q _EGnx26QIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.25"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.25"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.24"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.24"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10675,8 +10634,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJnaQIEeWwTIUtgzvn0Q" name="Issue media statement" outgoingEdges="_EGnxY6QIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.26"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.26"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.25"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.25"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10689,8 +10648,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJoqQIEeWwTIUtgzvn0Q" name="Provide Emergency Information" outgoingEdges="_EGnxcqQIEeWwTIUtgzvn0Q _EGnxrqQIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.27"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.27"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.26"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.26"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10703,8 +10662,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJp6QIEeWwTIUtgzvn0Q" name="Provide Prior Information" outgoingEdges="_EGnwlqQIEeWwTIUtgzvn0Q _EGnxd6QIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.28"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.28"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.27"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.27"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10717,8 +10676,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJrKQIEeWwTIUtgzvn0Q" name="Inform local residents" outgoingEdges="_EGnxIqQIEeWwTIUtgzvn0Q" incomingEdges="_EGnxrqQIEeWwTIUtgzvn0Q _EGnx26QIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.29"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.29"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.28"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.28"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10731,8 +10690,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJsaQIEeWwTIUtgzvn0Q" name="Dispose of contaminated clothing" incomingEdges="_EGnxs6QIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.30"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.30"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.29"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.29"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10745,8 +10704,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJtqQIEeWwTIUtgzvn0Q" name="Establish Casualty Bureau" outgoingEdges="_EGnxWaQIEeWwTIUtgzvn0Q" incomingEdges="_EGnx1qQIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.31"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.31"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.30"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.30"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10759,8 +10718,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJu6QIEeWwTIUtgzvn0Q" name="Establish Holding Centre" outgoingEdges="_EGnxJ6QIEeWwTIUtgzvn0Q" incomingEdges="_EGnxzKQIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.32"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.32"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.31"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.31"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10773,8 +10732,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJwKQIEeWwTIUtgzvn0Q" name="Disperse Potassium Iodate" outgoingEdges="_EGnwm6QIEeWwTIUtgzvn0Q _EGnxNqQIEeWwTIUtgzvn0Q" incomingEdges="_EGnxwqQIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.33"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.33"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.32"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.32"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10787,8 +10746,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJxaQIEeWwTIUtgzvn0Q" name="Recommend Evacuation" outgoingEdges="_EGnxVKQIEeWwTIUtgzvn0Q" incomingEdges="_EGnx0aQIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.34"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.34"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.33"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.33"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10801,8 +10760,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJyqQIEeWwTIUtgzvn0Q" name="Provide showers / clean clothes" incomingEdges="_EGnxuKQIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.35"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.35"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.34"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.34"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10815,8 +10774,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJz6QIEeWwTIUtgzvn0Q" name="Surface Monitoring" outgoingEdges="_EGnxLKQIEeWwTIUtgzvn0Q" incomingEdges="_EGnxx6QIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.36"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.36"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.35"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.35"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10829,8 +10788,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJ1KQIEeWwTIUtgzvn0Q" name="Operate Decontamination Centre" outgoingEdges="_EGnxMaQIEeWwTIUtgzvn0Q" incomingEdges="_EGnxvaQIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.37"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.37"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.36"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.36"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10843,8 +10802,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJ2aQIEeWwTIUtgzvn0Q" name="Chair HAG" outgoingEdges="_EGnxfKQIEeWwTIUtgzvn0Q _EGnx76QIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.38"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.38"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.37"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.37"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10857,8 +10816,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJ3qQIEeWwTIUtgzvn0Q" name="Chair SCG" outgoingEdges="_EGnxlaQIEeWwTIUtgzvn0Q _EGnx9KQIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.39"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.39"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.38"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.38"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10871,8 +10830,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJ46QIEeWwTIUtgzvn0Q" name="Establish Recovery Working Group" outgoingEdges="_EGnxgaQIEeWwTIUtgzvn0Q _EGnxkKQIEeWwTIUtgzvn0Q _EGnx_qQIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.40"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.40"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.39"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.39"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -10885,8 +10844,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='responsibilityNode']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnJ6KQIEeWwTIUtgzvn0Q" name="Establish Media Working Group" outgoingEdges="_EGnxhqQIEeWwTIUtgzvn0Q _EGnxi6QIEeWwTIUtgzvn0Q _EGnx-aQIEeWwTIUtgzvn0Q" width="3" height="3" resizeKind="NSEW">
-        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.41"/>
-        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.41"/>
+        <target xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.40"/>
+        <semanticElements xmi:type="responsibilityMetaModel:Responsibility" href="Hunterston%202.rmodel#//@responsibilities.40"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
@@ -11013,10 +10972,10 @@
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
         <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
         <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-        <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_EGnwLqQIEeWwTIUtgzvn0Q" showIcon="false" workspacePath="/ResponsibilityMetaModel.design/images/g3056.png">
-          <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnwL6QIEeWwTIUtgzvn0Q"/>
+        <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_JM2pYLSLEeWfY6Tmvn2vmg" showIcon="false" workspacePath="/ResponsibilityMetaModel.design/images/g3056.png">
+          <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_JM2pYbSLEeWfY6Tmvn2vmg"/>
           <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='actorNode']/@style"/>
-          <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnwMKQIEeWwTIUtgzvn0Q"/>
+          <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_JM2pYrSLEeWfY6Tmvn2vmg"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='actorNode']"/>
       </ownedDiagramElements>
@@ -11033,7 +10992,7 @@
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@nodeMappings[name='actorNode']"/>
       </ownedDiagramElements>
-      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnwNaQIEeWwTIUtgzvn0Q" name="Strathclyde Police" incomingEdges="_EGnw3KQIEeWwTIUtgzvn0Q _EGnw4aQIEeWwTIUtgzvn0Q _EGnw5qQIEeWwTIUtgzvn0Q _EGnw66QIEeWwTIUtgzvn0Q _EGnxVKQIEeWwTIUtgzvn0Q _EGnxWaQIEeWwTIUtgzvn0Q _EGnxXqQIEeWwTIUtgzvn0Q _EGnxY6QIEeWwTIUtgzvn0Q _EGnxaKQIEeWwTIUtgzvn0Q" width="-1" height="-1" resizeKind="NSEW">
+      <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_EGnwNaQIEeWwTIUtgzvn0Q" name="Strathclyde Police" incomingEdges="_EGnw3KQIEeWwTIUtgzvn0Q _EGnw4aQIEeWwTIUtgzvn0Q _EGnw5qQIEeWwTIUtgzvn0Q _EGnxVKQIEeWwTIUtgzvn0Q _EGnxWaQIEeWwTIUtgzvn0Q _EGnxXqQIEeWwTIUtgzvn0Q _EGnxY6QIEeWwTIUtgzvn0Q _EGnxaKQIEeWwTIUtgzvn0Q" width="-1" height="-1" resizeKind="NSEW">
         <target xmi:type="responsibilityMetaModel:Actor" href="Hunterston%202.rmodel#//@actors.5"/>
         <semanticElements xmi:type="responsibilityMetaModel:Actor" href="Hunterston%202.rmodel#//@actors.5"/>
         <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
@@ -11277,8 +11236,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResource']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnwkaQIEeWwTIUtgzvn0Q" sourceNode="_EGnJmKQIEeWwTIUtgzvn0Q" targetNode="_EGnJ96QIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.27"/>
-        <semanticElements xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.27"/>
+        <target xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.26"/>
+        <semanticElements xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.26"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnwkqQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResource']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnwk6QIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11289,8 +11248,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResource']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnwlqQIEeWwTIUtgzvn0Q" sourceNode="_EGnJp6QIEeWwTIUtgzvn0Q" targetNode="_EGnJ_KQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.30"/>
-        <semanticElements xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.30"/>
+        <target xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.29"/>
+        <semanticElements xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.29"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnwl6QIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResource']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnwmKQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11301,8 +11260,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResource']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnwm6QIEeWwTIUtgzvn0Q" sourceNode="_EGnJwKQIEeWwTIUtgzvn0Q" targetNode="_EGnKAaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.31"/>
-        <semanticElements xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.31"/>
+        <target xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.30"/>
+        <semanticElements xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.30"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnwnKQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResource']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnwnaQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11313,8 +11272,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResource']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnwoKQIEeWwTIUtgzvn0Q" sourceNode="_EGnJFqQIEeWwTIUtgzvn0Q" targetNode="_EGnJ7aQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.37"/>
-        <semanticElements xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.37"/>
+        <target xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.36"/>
+        <semanticElements xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.36"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnwoaQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResource']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnwoqQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11325,8 +11284,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResource']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnwpaQIEeWwTIUtgzvn0Q" sourceNode="_EGnJNKQIEeWwTIUtgzvn0Q" targetNode="_EGnJ7aQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.39"/>
-        <semanticElements xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.39"/>
+        <target xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.38"/>
+        <semanticElements xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.38"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnwpqQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResource']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnwp6QIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11337,8 +11296,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResource']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnwqqQIEeWwTIUtgzvn0Q" sourceNode="_EGnJPqQIEeWwTIUtgzvn0Q" targetNode="_EGnJ7aQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.40"/>
-        <semanticElements xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.40"/>
+        <target xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.39"/>
+        <semanticElements xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.39"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnwq6QIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResource']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnwrKQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11349,8 +11308,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResource']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnwr6QIEeWwTIUtgzvn0Q" sourceNode="_EGnJmKQIEeWwTIUtgzvn0Q" targetNode="_EGnJ7aQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.55"/>
-        <semanticElements xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.55"/>
+        <target xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.54"/>
+        <semanticElements xmi:type="responsibilityMetaModel:resourceRequiredRelationship" href="Hunterston%202.rmodel#//@relations.54"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnwsKQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResource']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnwsaQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11411,11 +11370,11 @@
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnwyKQIEeWwTIUtgzvn0Q" sourceNode="_EGnJL6QIEeWwTIUtgzvn0Q" targetNode="_EGnwLaQIEeWwTIUtgzvn0Q">
         <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.4"/>
         <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.4"/>
-        <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnwyaQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
+        <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_JNN1wLSLEeWfY6Tmvn2vmg" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
-          <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnwyqQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
-          <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_EGnwy6QIEeWwTIUtgzvn0Q">
-            <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnwzKQIEeWwTIUtgzvn0Q"/>
+          <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_JNN1wbSLEeWfY6Tmvn2vmg" red="136" green="136" blue="136"/>
+          <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_JNN1wrSLEeWfY6Tmvn2vmg">
+            <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_JNN1w7SLEeWfY6Tmvn2vmg"/>
           </centerLabelStyle>
         </ownedStyle>
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
@@ -11459,11 +11418,11 @@
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnw3KQIEeWwTIUtgzvn0Q" sourceNode="_EGnJSKQIEeWwTIUtgzvn0Q" targetNode="_EGnwNaQIEeWwTIUtgzvn0Q">
         <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.12"/>
         <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.12"/>
-        <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnw3aQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
+        <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_lmXqYLSQEeWfY6Tmvn2vmg" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
-          <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnw3qQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
-          <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_EGnw36QIEeWwTIUtgzvn0Q">
-            <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnw4KQIEeWwTIUtgzvn0Q"/>
+          <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_lmXqYbSQEeWfY6Tmvn2vmg" red="136" green="136" blue="136"/>
+          <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_lmXqYrSQEeWfY6Tmvn2vmg">
+            <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_lmXqY7SQEeWfY6Tmvn2vmg"/>
           </centerLabelStyle>
         </ownedStyle>
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
@@ -11471,11 +11430,11 @@
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnw4aQIEeWwTIUtgzvn0Q" sourceNode="_EGnJTaQIEeWwTIUtgzvn0Q" targetNode="_EGnwNaQIEeWwTIUtgzvn0Q">
         <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.13"/>
         <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.13"/>
-        <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnw4qQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
+        <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_k3Tk8LSQEeWfY6Tmvn2vmg" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
-          <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnw46QIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
-          <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_EGnw5KQIEeWwTIUtgzvn0Q">
-            <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnw5aQIEeWwTIUtgzvn0Q"/>
+          <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_k3Tk8bSQEeWfY6Tmvn2vmg" red="136" green="136" blue="136"/>
+          <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_k3Tk8rSQEeWfY6Tmvn2vmg">
+            <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_k3Tk87SQEeWfY6Tmvn2vmg"/>
           </centerLabelStyle>
         </ownedStyle>
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
@@ -11492,21 +11451,9 @@
         </ownedStyle>
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
-      <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnw66QIEeWwTIUtgzvn0Q" sourceNode="_EGnJQ6QIEeWwTIUtgzvn0Q" targetNode="_EGnwNaQIEeWwTIUtgzvn0Q">
+      <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnw8KQIEeWwTIUtgzvn0Q" sourceNode="_EGnJa6QIEeWwTIUtgzvn0Q" targetNode="_EGnwQaQIEeWwTIUtgzvn0Q">
         <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.15"/>
         <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.15"/>
-        <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnw7KQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
-          <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
-          <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnw7aQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
-          <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_EGnw7qQIEeWwTIUtgzvn0Q">
-            <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnw76QIEeWwTIUtgzvn0Q"/>
-          </centerLabelStyle>
-        </ownedStyle>
-        <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
-      </ownedDiagramElements>
-      <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnw8KQIEeWwTIUtgzvn0Q" sourceNode="_EGnJa6QIEeWwTIUtgzvn0Q" targetNode="_EGnwQaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.16"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.16"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnw8aQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnw8qQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11517,8 +11464,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnw-qQIEeWwTIUtgzvn0Q" sourceNode="_EGnJYaQIEeWwTIUtgzvn0Q" targetNode="_EGnwPaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.17"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.17"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.16"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.16"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnw-6QIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnw_KQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11529,8 +11476,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxBKQIEeWwTIUtgzvn0Q" sourceNode="_EGnJV6QIEeWwTIUtgzvn0Q" targetNode="_EGnwQaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.18"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.18"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.17"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.17"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxBaQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxBqQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11541,8 +11488,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxCaQIEeWwTIUtgzvn0Q" sourceNode="_EGnJcKQIEeWwTIUtgzvn0Q" targetNode="_EGnwRaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.19"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.19"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.18"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.18"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxCqQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxC6QIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11553,8 +11500,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxDqQIEeWwTIUtgzvn0Q" sourceNode="_EGnJk6QIEeWwTIUtgzvn0Q" targetNode="_EGnwUaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.21"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.21"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.20"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.20"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxD6QIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxEKQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11565,8 +11512,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxE6QIEeWwTIUtgzvn0Q" sourceNode="_EGnJf6QIEeWwTIUtgzvn0Q" targetNode="_EGnwWaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.25"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.25"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.24"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.24"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxFKQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxFaQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11577,8 +11524,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxGKQIEeWwTIUtgzvn0Q" sourceNode="_EGnJeqQIEeWwTIUtgzvn0Q" targetNode="_EGnwVaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.26"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.26"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.25"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.25"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxGaQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxGqQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11589,8 +11536,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxIqQIEeWwTIUtgzvn0Q" sourceNode="_EGnJrKQIEeWwTIUtgzvn0Q" targetNode="_EGnwXaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.28"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.28"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.27"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.27"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxI6QIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxJKQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11601,8 +11548,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxJ6QIEeWwTIUtgzvn0Q" sourceNode="_EGnJu6QIEeWwTIUtgzvn0Q" targetNode="_EGnwYaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.32"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.32"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.31"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.31"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxKKQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxKaQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11613,8 +11560,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxLKQIEeWwTIUtgzvn0Q" sourceNode="_EGnJz6QIEeWwTIUtgzvn0Q" targetNode="_EGnwYaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.33"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.33"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.32"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.32"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxLaQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxLqQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11625,8 +11572,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxMaQIEeWwTIUtgzvn0Q" sourceNode="_EGnJ1KQIEeWwTIUtgzvn0Q" targetNode="_EGnwZaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.34"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.34"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.33"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.33"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxMqQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxM6QIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11637,8 +11584,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxNqQIEeWwTIUtgzvn0Q" sourceNode="_EGnJwKQIEeWwTIUtgzvn0Q" targetNode="_EGnwYaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.35"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.35"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.34"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.34"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxN6QIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxOKQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11649,8 +11596,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxO6QIEeWwTIUtgzvn0Q" sourceNode="_EGnJKqQIEeWwTIUtgzvn0Q" targetNode="_EGnwJaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.38"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.38"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.37"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.37"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxPKQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxPaQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11661,8 +11608,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxQKQIEeWwTIUtgzvn0Q" sourceNode="_EGnJPqQIEeWwTIUtgzvn0Q" targetNode="_EGnwKaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.49"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.49"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.48"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.48"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxQaQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxQqQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11673,8 +11620,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxRaQIEeWwTIUtgzvn0Q" sourceNode="_EGnJdaQIEeWwTIUtgzvn0Q" targetNode="_EGnwKaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.50"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.50"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.49"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.49"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxRqQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxR6QIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11685,8 +11632,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxSqQIEeWwTIUtgzvn0Q" sourceNode="_EGnJhKQIEeWwTIUtgzvn0Q" targetNode="_EGnwKaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.51"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.51"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.50"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.50"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxS6QIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxTKQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11697,8 +11644,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxT6QIEeWwTIUtgzvn0Q" sourceNode="_EGnJeqQIEeWwTIUtgzvn0Q" targetNode="_EGnwKaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.52"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.52"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.51"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.51"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxUKQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxUaQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11709,8 +11656,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxVKQIEeWwTIUtgzvn0Q" sourceNode="_EGnJxaQIEeWwTIUtgzvn0Q" targetNode="_EGnwNaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.53"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.53"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.52"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.52"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxVaQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxVqQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11721,8 +11668,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxWaQIEeWwTIUtgzvn0Q" sourceNode="_EGnJtqQIEeWwTIUtgzvn0Q" targetNode="_EGnwNaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.54"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.54"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.53"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.53"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxWqQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxW6QIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11733,8 +11680,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxXqQIEeWwTIUtgzvn0Q" sourceNode="_EGnJiaQIEeWwTIUtgzvn0Q" targetNode="_EGnwNaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.56"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.56"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.55"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.55"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxX6QIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxYKQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11745,8 +11692,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxY6QIEeWwTIUtgzvn0Q" sourceNode="_EGnJnaQIEeWwTIUtgzvn0Q" targetNode="_EGnwNaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.57"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.57"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.56"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.56"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxZKQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxZaQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11757,8 +11704,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxaKQIEeWwTIUtgzvn0Q" sourceNode="_EGnJmKQIEeWwTIUtgzvn0Q" targetNode="_EGnwNaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.58"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.58"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.57"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.57"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxaaQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxaqQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11769,44 +11716,44 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxbaQIEeWwTIUtgzvn0Q" sourceNode="_EGnJIKQIEeWwTIUtgzvn0Q" targetNode="_EGnwLaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.59"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.59"/>
-        <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxbqQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.58"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.58"/>
+        <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_JNZb8LSLEeWfY6Tmvn2vmg" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
-          <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxb6QIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
-          <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_EGnxcKQIEeWwTIUtgzvn0Q">
-            <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxcaQIEeWwTIUtgzvn0Q"/>
+          <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_JNZb8bSLEeWfY6Tmvn2vmg" red="136" green="136" blue="136"/>
+          <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_JNZb8rSLEeWfY6Tmvn2vmg">
+            <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_JNZb87SLEeWfY6Tmvn2vmg"/>
           </centerLabelStyle>
         </ownedStyle>
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxcqQIEeWwTIUtgzvn0Q" sourceNode="_EGnJoqQIEeWwTIUtgzvn0Q" targetNode="_EGnwLaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.60"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.60"/>
-        <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxc6QIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.59"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.59"/>
+        <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_JNaDALSLEeWfY6Tmvn2vmg" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
-          <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxdKQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
-          <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_EGnxdaQIEeWwTIUtgzvn0Q">
-            <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxdqQIEeWwTIUtgzvn0Q"/>
+          <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_JNaDAbSLEeWfY6Tmvn2vmg" red="136" green="136" blue="136"/>
+          <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_JNaDArSLEeWfY6Tmvn2vmg">
+            <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_JNaDA7SLEeWfY6Tmvn2vmg"/>
           </centerLabelStyle>
         </ownedStyle>
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxd6QIEeWwTIUtgzvn0Q" sourceNode="_EGnJp6QIEeWwTIUtgzvn0Q" targetNode="_EGnwLaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.61"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.61"/>
-        <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxeKQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.60"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.60"/>
+        <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_JNaqELSLEeWfY6Tmvn2vmg" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
-          <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxeaQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
-          <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_EGnxeqQIEeWwTIUtgzvn0Q">
-            <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxe6QIEeWwTIUtgzvn0Q"/>
+          <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_JNaqEbSLEeWfY6Tmvn2vmg" red="136" green="136" blue="136"/>
+          <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_JNaqErSLEeWfY6Tmvn2vmg">
+            <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_JNaqE7SLEeWfY6Tmvn2vmg"/>
           </centerLabelStyle>
         </ownedStyle>
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxfKQIEeWwTIUtgzvn0Q" sourceNode="_EGnJ2aQIEeWwTIUtgzvn0Q" targetNode="_EGnwaaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.64"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.64"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.63"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.63"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxfaQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxfqQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11817,8 +11764,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxgaQIEeWwTIUtgzvn0Q" sourceNode="_EGnJ46QIEeWwTIUtgzvn0Q" targetNode="_EGnwcaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.69"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.69"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.68"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.68"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxgqQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxg6QIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11829,8 +11776,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxhqQIEeWwTIUtgzvn0Q" sourceNode="_EGnJ6KQIEeWwTIUtgzvn0Q" targetNode="_EGnwcaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.70"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.70"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.69"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.69"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxh6QIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxiKQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11841,8 +11788,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxi6QIEeWwTIUtgzvn0Q" sourceNode="_EGnJ6KQIEeWwTIUtgzvn0Q" targetNode="_EGnwIaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.71"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.71"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.70"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.70"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxjKQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxjaQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11853,8 +11800,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxkKQIEeWwTIUtgzvn0Q" sourceNode="_EGnJ46QIEeWwTIUtgzvn0Q" targetNode="_EGnwIaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.72"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.72"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.71"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.71"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxkaQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxkqQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11865,8 +11812,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxlaQIEeWwTIUtgzvn0Q" sourceNode="_EGnJ3qQIEeWwTIUtgzvn0Q" targetNode="_EGnwIaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.73"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.73"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.72"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.72"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxlqQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxl6QIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11877,8 +11824,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxmqQIEeWwTIUtgzvn0Q" sourceNode="_EGnJjqQIEeWwTIUtgzvn0Q" targetNode="_EGnwQaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.74"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.74"/>
+        <target xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.73"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorRequiredRelationship" href="Hunterston%202.rmodel#//@relations.73"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxm6QIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxnKQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11889,8 +11836,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxn6QIEeWwTIUtgzvn0Q" sourceNode="_EGnJeqQIEeWwTIUtgzvn0Q" targetNode="_EGnJk6QIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.22"/>
-        <semanticElements xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.22"/>
+        <target xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.21"/>
+        <semanticElements xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.21"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxoKQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResponsibility']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxoaQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11901,8 +11848,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResponsibility']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxpKQIEeWwTIUtgzvn0Q" sourceNode="_EGnJeqQIEeWwTIUtgzvn0Q" targetNode="_EGnJjqQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.23"/>
-        <semanticElements xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.23"/>
+        <target xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.22"/>
+        <semanticElements xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.22"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxpaQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResponsibility']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxpqQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11913,8 +11860,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResponsibility']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxqaQIEeWwTIUtgzvn0Q" sourceNode="_EGnJeqQIEeWwTIUtgzvn0Q" targetNode="_EGnJf6QIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.24"/>
-        <semanticElements xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.24"/>
+        <target xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.23"/>
+        <semanticElements xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.23"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxqqQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResponsibility']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxq6QIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11925,8 +11872,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResponsibility']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxrqQIEeWwTIUtgzvn0Q" sourceNode="_EGnJoqQIEeWwTIUtgzvn0Q" targetNode="_EGnJrKQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.29"/>
-        <semanticElements xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.29"/>
+        <target xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.28"/>
+        <semanticElements xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.28"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxr6QIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResponsibility']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxsKQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11937,8 +11884,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResponsibility']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxs6QIEeWwTIUtgzvn0Q" sourceNode="_EGnJPqQIEeWwTIUtgzvn0Q" targetNode="_EGnJsaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.41"/>
-        <semanticElements xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.41"/>
+        <target xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.40"/>
+        <semanticElements xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.40"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxtKQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResponsibility']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxtaQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11949,8 +11896,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResponsibility']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxuKQIEeWwTIUtgzvn0Q" sourceNode="_EGnJPqQIEeWwTIUtgzvn0Q" targetNode="_EGnJyqQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.42"/>
-        <semanticElements xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.42"/>
+        <target xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.41"/>
+        <semanticElements xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.41"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxuaQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResponsibility']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxuqQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11961,8 +11908,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResponsibility']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxvaQIEeWwTIUtgzvn0Q" sourceNode="_EGnJPqQIEeWwTIUtgzvn0Q" targetNode="_EGnJ1KQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.43"/>
-        <semanticElements xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.43"/>
+        <target xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.42"/>
+        <semanticElements xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.42"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxvqQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResponsibility']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxv6QIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11973,8 +11920,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResponsibility']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxwqQIEeWwTIUtgzvn0Q" sourceNode="_EGnJPqQIEeWwTIUtgzvn0Q" targetNode="_EGnJwKQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.44"/>
-        <semanticElements xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.44"/>
+        <target xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.43"/>
+        <semanticElements xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.43"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxw6QIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResponsibility']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxxKQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11985,8 +11932,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResponsibility']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxx6QIEeWwTIUtgzvn0Q" sourceNode="_EGnJPqQIEeWwTIUtgzvn0Q" targetNode="_EGnJz6QIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.45"/>
-        <semanticElements xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.45"/>
+        <target xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.44"/>
+        <semanticElements xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.44"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxyKQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResponsibility']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxyaQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -11997,8 +11944,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResponsibility']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnxzKQIEeWwTIUtgzvn0Q" sourceNode="_EGnJPqQIEeWwTIUtgzvn0Q" targetNode="_EGnJu6QIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.46"/>
-        <semanticElements xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.46"/>
+        <target xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.45"/>
+        <semanticElements xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.45"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnxzaQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResponsibility']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnxzqQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -12009,8 +11956,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResponsibility']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnx0aQIEeWwTIUtgzvn0Q" sourceNode="_EGnJPqQIEeWwTIUtgzvn0Q" targetNode="_EGnJxaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.47"/>
-        <semanticElements xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.47"/>
+        <target xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.46"/>
+        <semanticElements xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.46"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnx0qQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResponsibility']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnx06QIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -12021,8 +11968,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResponsibility']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnx1qQIEeWwTIUtgzvn0Q" sourceNode="_EGnJPqQIEeWwTIUtgzvn0Q" targetNode="_EGnJtqQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.48"/>
-        <semanticElements xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.48"/>
+        <target xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.47"/>
+        <semanticElements xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.47"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnx16QIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResponsibility']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnx2KQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -12033,8 +11980,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResponsibility']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnx26QIEeWwTIUtgzvn0Q" sourceNode="_EGnJmKQIEeWwTIUtgzvn0Q" targetNode="_EGnJrKQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.62"/>
-        <semanticElements xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.62"/>
+        <target xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.61"/>
+        <semanticElements xmi:type="responsibilityMetaModel:responsibilityRequiredRelationship" href="Hunterston%202.rmodel#//@relations.61"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnx3KQIEeWwTIUtgzvn0Q" sourceArrow="InputArrow" targetArrow="NoDecoration" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResponsibility']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnx3aQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -12045,8 +11992,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='requiredResponsibility']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnx4KQIEeWwTIUtgzvn0Q" sourceNode="_EGnJdaQIEeWwTIUtgzvn0Q" targetNode="_EGnJ8qQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:resourceProducedRelationship" href="Hunterston%202.rmodel#//@relations.20"/>
-        <semanticElements xmi:type="responsibilityMetaModel:resourceProducedRelationship" href="Hunterston%202.rmodel#//@relations.20"/>
+        <target xmi:type="responsibilityMetaModel:resourceProducedRelationship" href="Hunterston%202.rmodel#//@relations.19"/>
+        <semanticElements xmi:type="responsibilityMetaModel:resourceProducedRelationship" href="Hunterston%202.rmodel#//@relations.19"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnx4aQIEeWwTIUtgzvn0Q" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='produces']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnx4qQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -12057,8 +12004,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='produces']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnx5aQIEeWwTIUtgzvn0Q" sourceNode="_EGnJEaQIEeWwTIUtgzvn0Q" targetNode="_EGnJ7aQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:resourceProducedRelationship" href="Hunterston%202.rmodel#//@relations.36"/>
-        <semanticElements xmi:type="responsibilityMetaModel:resourceProducedRelationship" href="Hunterston%202.rmodel#//@relations.36"/>
+        <target xmi:type="responsibilityMetaModel:resourceProducedRelationship" href="Hunterston%202.rmodel#//@relations.35"/>
+        <semanticElements xmi:type="responsibilityMetaModel:resourceProducedRelationship" href="Hunterston%202.rmodel#//@relations.35"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnx5qQIEeWwTIUtgzvn0Q" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='produces']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnx56QIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -12069,8 +12016,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='produces']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnx6qQIEeWwTIUtgzvn0Q" sourceNode="_EGnwIaQIEeWwTIUtgzvn0Q" targetNode="_EGnJFqQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorHoldsRelationship" href="Hunterston%202.rmodel#//@relations.63"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorHoldsRelationship" href="Hunterston%202.rmodel#//@relations.63"/>
+        <target xmi:type="responsibilityMetaModel:actorHoldsRelationship" href="Hunterston%202.rmodel#//@relations.62"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorHoldsRelationship" href="Hunterston%202.rmodel#//@relations.62"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnx66QIEeWwTIUtgzvn0Q" targetArrow="InputClosedArrow" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='holds']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnx7KQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -12081,8 +12028,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='holds']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnx76QIEeWwTIUtgzvn0Q" sourceNode="_EGnJ2aQIEeWwTIUtgzvn0Q" targetNode="_EGnwbaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorProducedRelationship" href="Hunterston%202.rmodel#//@relations.65"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorProducedRelationship" href="Hunterston%202.rmodel#//@relations.65"/>
+        <target xmi:type="responsibilityMetaModel:actorProducedRelationship" href="Hunterston%202.rmodel#//@relations.64"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorProducedRelationship" href="Hunterston%202.rmodel#//@relations.64"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnx8KQIEeWwTIUtgzvn0Q" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='producedActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnx8aQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -12093,8 +12040,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='producedActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnx9KQIEeWwTIUtgzvn0Q" sourceNode="_EGnJ3qQIEeWwTIUtgzvn0Q" targetNode="_EGnwcaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorProducedRelationship" href="Hunterston%202.rmodel#//@relations.66"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorProducedRelationship" href="Hunterston%202.rmodel#//@relations.66"/>
+        <target xmi:type="responsibilityMetaModel:actorProducedRelationship" href="Hunterston%202.rmodel#//@relations.65"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorProducedRelationship" href="Hunterston%202.rmodel#//@relations.65"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnx9aQIEeWwTIUtgzvn0Q" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='producedActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnx9qQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -12105,8 +12052,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='producedActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnx-aQIEeWwTIUtgzvn0Q" sourceNode="_EGnJ6KQIEeWwTIUtgzvn0Q" targetNode="_EGnwdaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorProducedRelationship" href="Hunterston%202.rmodel#//@relations.67"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorProducedRelationship" href="Hunterston%202.rmodel#//@relations.67"/>
+        <target xmi:type="responsibilityMetaModel:actorProducedRelationship" href="Hunterston%202.rmodel#//@relations.66"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorProducedRelationship" href="Hunterston%202.rmodel#//@relations.66"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnx-qQIEeWwTIUtgzvn0Q" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='producedActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnx-6QIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
@@ -12117,8 +12064,8 @@
         <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='producedActor']"/>
       </ownedDiagramElements>
       <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_EGnx_qQIEeWwTIUtgzvn0Q" sourceNode="_EGnJ46QIEeWwTIUtgzvn0Q" targetNode="_EGnweaQIEeWwTIUtgzvn0Q">
-        <target xmi:type="responsibilityMetaModel:actorProducedRelationship" href="Hunterston%202.rmodel#//@relations.68"/>
-        <semanticElements xmi:type="responsibilityMetaModel:actorProducedRelationship" href="Hunterston%202.rmodel#//@relations.68"/>
+        <target xmi:type="responsibilityMetaModel:actorProducedRelationship" href="Hunterston%202.rmodel#//@relations.67"/>
+        <semanticElements xmi:type="responsibilityMetaModel:actorProducedRelationship" href="Hunterston%202.rmodel#//@relations.67"/>
         <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_EGnx_6QIEeWwTIUtgzvn0Q" size="2">
           <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/ResponsibilityMetaModel.design/description/ResponsibilityMetaModel.odesign#//@ownedViewpoints[name='responsibilityModel']/@ownedRepresentations[name='responsibilityDiagram']/@defaultLayer/@edgeMappings[name='producedActor']/@style"/>
           <strokeColor xmi:type="viewpoint:RGBValues" xmi:id="_EGnyAKQIEeWwTIUtgzvn0Q" red="136" green="136" blue="136"/>
