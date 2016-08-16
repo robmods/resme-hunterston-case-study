@@ -12,7 +12,7 @@
   <relations xsi:type="responsibilityMetaModel:resourceRequiredRelationship" responsibility="//@responsibilities.0" resource="//@resources.0"/>
   <relations xsi:type="responsibilityMetaModel:actorHoldsRelationship" responsibility="//@responsibilities.1" actor="//@actors.0"/>
   <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.2" actor="//@actors.1"/>
-  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.2" superResponsibility="//@responsibilities.1"/>
-  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.3" superResponsibility="//@responsibilities.1"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subResponsibility="//@responsibilities.2" superResponsibility="//@responsibilities.1"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subResponsibility="//@responsibilities.3" superResponsibility="//@responsibilities.1"/>
   <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.3" actor="//@actors.2"/>
 </responsibilityMetaModel:Scenario>

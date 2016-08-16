@@ -11,7 +11,7 @@
   <actors name="Site Operator" requiredBy="//@relations.6"/>
   <relations xsi:type="responsibilityMetaModel:resourceRequiredRelationship" responsibility="//@responsibilities.0" resource="//@resources.0"/>
   <relations xsi:type="responsibilityMetaModel:resourceRequiredRelationship" responsibility="//@responsibilities.0" resource="//@resources.1"/>
-  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.1" superResponsibility="//@responsibilities.0"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subResponsibility="//@responsibilities.1" superResponsibility="//@responsibilities.0"/>
   <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.2" actor="//@actors.0"/>
   <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.1" actor="//@actors.1"/>
   <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.0" actor="//@actors.0"/>

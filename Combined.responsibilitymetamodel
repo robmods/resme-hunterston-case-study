@@ -96,15 +96,15 @@
   <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.19" actor="//@actors.9"/>
   <relations xsi:type="responsibilityMetaModel:resourceProducedRelationship" responsibility="//@responsibilities.20" resource="//@resources.1"/>
   <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.26" actor="//@actors.12"/>
-  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.26" superResponsibility="//@responsibilities.21"/>
-  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.25" superResponsibility="//@responsibilities.21"/>
-  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.22" superResponsibility="//@responsibilities.21"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subResponsibility="//@responsibilities.26" superResponsibility="//@responsibilities.21"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subResponsibility="//@responsibilities.25" superResponsibility="//@responsibilities.21"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subResponsibility="//@responsibilities.22" superResponsibility="//@responsibilities.21"/>
   <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.22" actor="//@actors.14"/>
   <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.21" actor="//@actors.13"/>
   <relations xsi:type="responsibilityMetaModel:resourceRequiredRelationship" responsibility="//@responsibilities.27" resource="//@resources.2"/>
   <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.21" actor="//@actors.11"/>
   <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.31" actor="//@actors.15"/>
-  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.31" superResponsibility="//@responsibilities.29"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subResponsibility="//@responsibilities.31" superResponsibility="//@responsibilities.29"/>
   <relations xsi:type="responsibilityMetaModel:resourceRequiredRelationship" responsibility="//@responsibilities.30" resource="//@resources.3"/>
   <relations xsi:type="responsibilityMetaModel:resourceRequiredRelationship" responsibility="//@responsibilities.35" resource="//@resources.4"/>
   <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.34" actor="//@actors.16"/>
@@ -116,14 +116,14 @@
   <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.5" actor="//@actors.1"/>
   <relations xsi:type="responsibilityMetaModel:resourceRequiredRelationship" responsibility="//@responsibilities.7" resource="//@resources.0"/>
   <relations xsi:type="responsibilityMetaModel:resourceRequiredRelationship" responsibility="//@responsibilities.9" resource="//@resources.0"/>
-  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.32" superResponsibility="//@responsibilities.9"/>
-  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.37" superResponsibility="//@responsibilities.9"/>
-  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.39" superResponsibility="//@responsibilities.9"/>
-  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.35" superResponsibility="//@responsibilities.9"/>
-  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.38" superResponsibility="//@responsibilities.9"/>
-  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.34" superResponsibility="//@responsibilities.9"/>
-  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.36" superResponsibility="//@responsibilities.9"/>
-  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.33" superResponsibility="//@responsibilities.9"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subResponsibility="//@responsibilities.32" superResponsibility="//@responsibilities.9"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subResponsibility="//@responsibilities.37" superResponsibility="//@responsibilities.9"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subResponsibility="//@responsibilities.39" superResponsibility="//@responsibilities.9"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subResponsibility="//@responsibilities.35" superResponsibility="//@responsibilities.9"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subResponsibility="//@responsibilities.38" superResponsibility="//@responsibilities.9"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subResponsibility="//@responsibilities.34" superResponsibility="//@responsibilities.9"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subResponsibility="//@responsibilities.36" superResponsibility="//@responsibilities.9"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subResponsibility="//@responsibilities.33" superResponsibility="//@responsibilities.9"/>
   <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.9" actor="//@actors.2"/>
   <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.20" actor="//@actors.2"/>
   <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.23" actor="//@actors.2"/>
@@ -137,7 +137,7 @@
   <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.3" actor="//@actors.3"/>
   <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.29" actor="//@actors.3"/>
   <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.30" actor="//@actors.3"/>
-  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subRresponsibility="//@responsibilities.31" superResponsibility="//@responsibilities.27"/>
+  <relations xsi:type="responsibilityMetaModel:responsibilityRequiredRelationship" subResponsibility="//@responsibilities.31" superResponsibility="//@responsibilities.27"/>
   <relations xsi:type="responsibilityMetaModel:actorHoldsRelationship" responsibility="//@responsibilities.1" actor="//@actors.0"/>
   <relations xsi:type="responsibilityMetaModel:actorRequiredRelationship" responsibility="//@responsibilities.40" actor="//@actors.18"/>
   <relations xsi:type="responsibilityMetaModel:actorProducedRelationship" actor="//@actors.19" responsibility="//@responsibilities.40"/>
